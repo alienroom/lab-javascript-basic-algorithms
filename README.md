@@ -2,9 +2,9 @@
 
 # LAB | JS Basic Algorithms 
 
-Welcome to your first bootcamp exercise at Ironhack!
+Welcome to your first exercise at AlienRoom!
 
-The goal of this exercise is to get you familiarized with the primitive data structures in JavaScript, which we just covered in the class. Feel free to reference lesson materials and don't limit yourself but be curious and use Google to explore multiple solutions.
+The goal of this exercise is to get you familiarized with the primitive data structures in JavaScript, be curious and use Google to explore multiple solutions.
 
 Ready?
 
@@ -31,7 +31,6 @@ Ready to start?
   <!-- ![](https://i.imgur.com/4TQislb.png) -->
   ![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_17f095b9bb4fa4bd1bee1c017c043327.png)
 
-- __When you are done completely or at any point after the first iteration, copy your code into the `js/index.js` file and follow the steps for submission.__
 
 ## Submission
 
@@ -41,14 +40,6 @@ $ git add .
 $ git commit -m "done"
 $ git push origin master
 ```
-Create Pull Request so your TAs can check up your work.
-
-_You should make a PR (stands for Pull Request) as soon as you make any significant change. You shouldn't have to wait until you're completely done with this or any other exercise to make the PR. After you do the first PR, any other time you push the changes (following the previous three steps), your change will appear automatically on the PR and your TAs will be able to check it._
-
-<!-- ## Submission -->
-
-<!-- When you are done and you have checked that everything works fine, click on the **Share** button and copy the link from the *Share Link* field. Send this link to your TAs so they can check up your work.
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_b2aa98f91affe5d4c5f12f216b069184.png) -->
 
 ## Instructions
 
@@ -110,4 +101,4 @@ Create a new variable `phraseToCheck` and have it contain some string value. Wri
 - [for - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
 
 
-__Happy coding!__ :heart:
+__ALIENROOM CodeLab happy coding!__ :alien: :flying_saucer: :heart:
