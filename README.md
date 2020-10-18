@@ -1,4 +1,4 @@
-![logo_ironhack_blue 7](https://github.com/alienroom/ALIENROOM-Logos-png/blob/main/ARLogoBlackWhite.png)
+![logo_ironhack_blue 7](https://github.com/alienroom/ALIENROOM-Logos-png/blob/main/arReadMe.png)
 
 # LAB | JS Basic Algorithms 
 
